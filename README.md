@@ -1,2 +1,3 @@
-# doors-peripleo
-Peripleo Prototype Deployment for the DOORS Grant Submission
+# DOORS Peripleo
+
+Peripleo Prototype Deployment for the DOORS Grant Submission.
