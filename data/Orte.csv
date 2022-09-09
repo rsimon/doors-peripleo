@@ -1,9 +1,9 @@
-  Ortsname,Lon,Lat
-  "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
-  "Raabs an der Thaya (Hafnerei Meier u. Söhne)",
-  "Drosendorf (Sammlung Huber)",
-  "Retz (Hafnerei Gruber)",
-  "Neunkirchen, (Hafner unbekannt)",
-  "Neunkirchen, Hauptstraße 4",
-  "Klein Pöchlarn (Hafnerei Erndt)",
-  "Bad Vöslau (Verlassenschaft Müller)"
+Ortsname;Lat;Lon
+"Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden";48.01678430584796;16.223231869592098
+"Raabs an der Thaya (Hafnerei Meier u. Söhne)";48.84872526158399;15.49193270649047
+"Drosendorf (Sammlung Huber)";48.86838148496686;15.62135902543384
+"Retz (Hafnerei Gruber)";48.75858167176046;15.954935362330556
+"Neunkirchen, (Hafner unbekannt)";47.726001150246475;16.080988590755194
+"Neunkirchen, Hauptstraße 4";47.6830184074709;15.940976773859708
+"Klein Pöchlarn (Hafnerei Erndt)";48.22018126602972;15.217735045666453
+"Bad Vöslau (Verlassenschaft Müller)";47.969053390080084;16.210293340429626
