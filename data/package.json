@@ -5,7 +5,9 @@
   "description": "Data wrangling util for the DOORS prototype",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "places": "node src/places.js",
+    "gazetteer": "node src/gazetteer.js",
+    "records": "node src/records.js"
   },
   "dependencies": {
     "nanoid": "^4.0.0",
