@@ -1,9 +1,9 @@
 {
-  "initial_bounds": [-28.9, -4.8, 88.2, 59.8],
+  "initial_bounds": [15.4, 47.4, 16.3, 49.1],
   "data": [
     { "name": "DOORS Beispieldaten", "format": "LINKED_PLACES", "src": "demo-dataset.lp.json" }
   ],
-  "map_style": "https://api.maptiler.com/maps/outdoor/style.json?key=n685MFoUAXpwGYc35v3J",
+  "map_style": "https://api.maptiler.com/maps/pastel/style.json?key=RFavxpVJ82EHyrN2kxsF",
   "facets": [
     { "name": "Material", "path": ["properties", "material"] },
     { "name": "Technik", "path": ["properties", "technique"] },

@@ -1,5 +1,6 @@
 import fs from 'fs';
 import Papa from 'papaparse';
+import { nanoid } from 'nanoid';
 
 const gazetteerCsv = fs.readFileSync('./Dummy-Orte.csv', { encoding: 'utf8' });
 const gazetteer = Papa.parse(gazetteerCsv, { header: true, delimiter: ';' });
@@ -65,10 +66,11 @@ const features = records.data.reduce((all, row) => {
   const Eigentuemer = row['Eigentümer'];
 
   const peripleoRecord = {
-    '@id': Link,
+    '@id': nanoid(),
     type: 'Feature',
     properties: {
       title: Objektbezeichnung,
+      source: Link,
       invNr: InvNr,
       material: Material,
       technique: Technik?.split(';').map(str => str.trim()) || [],

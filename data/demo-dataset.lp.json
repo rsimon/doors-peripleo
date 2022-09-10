@@ -2,10 +2,11 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "yPgx_RBn8_XmCvtzZhRWq",
       "type": "Feature",
       "properties": {
         "title": "Kachelmodel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM0899",
         "material": "Keramik/Ton",
         "technique": [
@@ -42,10 +43,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "yPgx_RBn8_XmCvtzZhRWq",
       "type": "Feature",
       "properties": {
         "title": "Kachelmodel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM0899",
         "material": "Keramik/Ton",
         "technique": [
@@ -82,10 +84,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "yPgx_RBn8_XmCvtzZhRWq",
       "type": "Feature",
       "properties": {
         "title": "Kachelmodel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM0899",
         "material": "Keramik/Ton",
         "technique": [
@@ -122,10 +125,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "jY5VirN0vz1TwKBVgvb4I",
       "type": "Feature",
       "properties": {
         "title": "Kachelmodel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM0901",
         "material": "Keramik/Ton",
         "technique": [
@@ -162,10 +166,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "jY5VirN0vz1TwKBVgvb4I",
       "type": "Feature",
       "properties": {
         "title": "Kachelmodel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM0901",
         "material": "Keramik/Ton",
         "technique": [
@@ -202,10 +207,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "jY5VirN0vz1TwKBVgvb4I",
       "type": "Feature",
       "properties": {
         "title": "Kachelmodel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM0901",
         "material": "Keramik/Ton",
         "technique": [
@@ -242,10 +248,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "Of0d0TXJpr-KbfRK3Ao1w",
       "type": "Feature",
       "properties": {
         "title": "Kachelmodel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM0902",
         "material": "Keramik/Ton",
         "technique": [
@@ -282,10 +289,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "Of0d0TXJpr-KbfRK3Ao1w",
       "type": "Feature",
       "properties": {
         "title": "Kachelmodel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM0902",
         "material": "Keramik/Ton",
         "technique": [
@@ -322,10 +330,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "Of0d0TXJpr-KbfRK3Ao1w",
       "type": "Feature",
       "properties": {
         "title": "Kachelmodel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM0902",
         "material": "Keramik/Ton",
         "technique": [
@@ -362,10 +371,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "C5t7IVV7FrD_6hbUiviH9",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4268",
         "material": "Gips",
         "technique": [
@@ -402,10 +412,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "C5t7IVV7FrD_6hbUiviH9",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4268",
         "material": "Gips",
         "technique": [
@@ -442,10 +453,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "C5t7IVV7FrD_6hbUiviH9",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4268",
         "material": "Gips",
         "technique": [
@@ -482,10 +494,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "17uNuFSQ-FJSD0im0P0yV",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4269",
         "material": "Gips",
         "technique": [
@@ -522,10 +535,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "17uNuFSQ-FJSD0im0P0yV",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4269",
         "material": "Gips",
         "technique": [
@@ -562,10 +576,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "17uNuFSQ-FJSD0im0P0yV",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4269",
         "material": "Gips",
         "technique": [
@@ -602,10 +617,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "ss-F5IGwwb6K64gDcNgd6",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4270",
         "material": "Gips",
         "technique": [
@@ -642,10 +658,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "ss-F5IGwwb6K64gDcNgd6",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4270",
         "material": "Gips",
         "technique": [
@@ -682,10 +699,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "ss-F5IGwwb6K64gDcNgd6",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4270",
         "material": "Gips",
         "technique": [
@@ -722,10 +740,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "AGH3iS2cIpioZrlUFRkOj",
       "type": "Feature",
       "properties": {
         "title": "Kachelmodel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM0910",
         "material": "Keramik/Ton",
         "technique": [
@@ -762,10 +781,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "AGH3iS2cIpioZrlUFRkOj",
       "type": "Feature",
       "properties": {
         "title": "Kachelmodel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM0910",
         "material": "Keramik/Ton",
         "technique": [
@@ -802,10 +822,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "AGH3iS2cIpioZrlUFRkOj",
       "type": "Feature",
       "properties": {
         "title": "Kachelmodel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM0910",
         "material": "Keramik/Ton",
         "technique": [
@@ -842,10 +863,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "XHuPUt7dYnpCDoEtntP1r",
       "type": "Feature",
       "properties": {
         "title": "Relief",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM3861",
         "material": "Gips",
         "technique": [
@@ -882,10 +904,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "FKTYmbceCN2BZGckW7FuD",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4051",
         "material": "Gips",
         "technique": [
@@ -922,10 +945,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "JVtnUtLQ1JljmfyVQcvtD",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4052",
         "material": "Gips",
         "technique": [
@@ -962,10 +986,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "0d__bd6JZzP-_SdIUUvO5",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4053",
         "material": "Gips",
         "technique": [
@@ -1002,10 +1027,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "mTdiRgZUWoav6HgDfCWtY",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4054",
         "material": "Gips",
         "technique": [
@@ -1042,10 +1068,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "PS7Hx6RM6AqRQR5tLFY4L",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4236",
         "material": "Gips",
         "technique": [
@@ -1083,10 +1110,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "bI3se08ShQhRtdqlJtu_n",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4237",
         "material": "Gips",
         "technique": [
@@ -1124,10 +1152,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "5OkMah3mdW0-jjyCw1PYa",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4238",
         "material": "Gips",
         "technique": [
@@ -1165,10 +1194,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "hKaJ_GhyREM5GvH8EDc92",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4239",
         "material": "Gips",
         "technique": [
@@ -1206,10 +1236,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "Focd4viPSjJDzSP8s2eoe",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4240",
         "material": "Gips",
         "technique": [
@@ -1247,10 +1278,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "YE5FdALmyb-uvSTAxmaXb",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4241",
         "material": "Gips",
         "technique": [
@@ -1288,10 +1320,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "nK0fZIXWHZy1VucOBQNkJ",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4242",
         "material": "Gips",
         "technique": [
@@ -1329,10 +1362,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "lpWF9R5L74x8JvNmKJVZ8",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4243",
         "material": "Gips",
         "technique": [
@@ -1370,10 +1404,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "NK19-1d666sMBz2W8o-Z0",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4244",
         "material": "Gips",
         "technique": [
@@ -1411,10 +1446,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "WXNM0jmJTE_wwrSd_Z5Zq",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4245",
         "material": "Gips",
         "technique": [
@@ -1452,10 +1488,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "m3PXd7sYQoZulX3-i-kCX",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4246",
         "material": "Gips",
         "technique": [
@@ -1493,10 +1530,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "H9d7KBq4CsdRA46NDEQyc",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4247",
         "material": "Gips",
         "technique": [
@@ -1534,10 +1572,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "vtO4LGjHA0gfxJkAFBmk6",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4248",
         "material": "Gips",
         "technique": [
@@ -1575,10 +1614,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "D1L-jaEK547IQgUFGjd38",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4249",
         "material": "Gips",
         "technique": [
@@ -1616,10 +1656,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "5zKKZgy6AcaTyM4wNPFfv",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4250",
         "material": "Gips",
         "technique": [
@@ -1657,10 +1698,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "7HIuKTNkaS2rK3JAQFq_T",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4251",
         "material": "Gips",
         "technique": [
@@ -1698,10 +1740,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "wLdKLwwH9DsUZbhP19HHs",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4252",
         "material": "Gips",
         "technique": [
@@ -1739,10 +1782,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "sNEjlJBs2ncWKDx6CbfF4",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4253",
         "material": "Gips",
         "technique": [
@@ -1780,10 +1824,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "qJUMGjmT9mFiFHLYyZ18W",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4254",
         "material": "Gips",
         "technique": [
@@ -1821,10 +1866,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "3U8_osKhLSzFT4Jur_fmc",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4255",
         "material": "Gips",
         "technique": [
@@ -1862,10 +1908,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "2Gzq7jZLeOV7oo1Jk6Ouw",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4256",
         "material": "Gips",
         "technique": [
@@ -1903,10 +1950,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "7zAONE8g8FQWN2hhwZFOG",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4257",
         "material": "Gips",
         "technique": [
@@ -1944,10 +1992,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "EPwCfrQqw6xwYVxvk9WUB",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4258a-b",
         "material": "Gips",
         "technique": [
@@ -1984,10 +2033,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "0L0aCdrR6OHlhMRMzLz3z",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4259",
         "material": "Gips",
         "technique": [
@@ -2024,10 +2074,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "I3qm6COjWkCMdZ-C6oD3c",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4260",
         "material": "Gips",
         "technique": [
@@ -2064,10 +2115,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "ryC7cu3_Ct0AZMYDAhS9F",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4261a-b",
         "material": "Gips",
         "technique": [
@@ -2104,10 +2156,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "wfBE2C6Ro6xmsX5qxhScF",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4262a-b",
         "material": "Gips",
         "technique": [
@@ -2144,10 +2197,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "9BPi_hw8CgDNl04pVxEcV",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4263a-b",
         "material": "Gips",
         "technique": [
@@ -2184,10 +2238,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "dzfWDpa9Rd9zNEp749Wh0",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4264a-b",
         "material": "Gips",
         "technique": [
@@ -2224,10 +2279,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "ZN09gYJVLCHce_1YQCHsH",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4265",
         "material": "Gips",
         "technique": [
@@ -2264,10 +2320,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "czFqrw_BGA6B9RYLs5nAQ",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4266",
         "material": "Gips",
         "technique": [
@@ -2304,10 +2361,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "p1BOYaU0fGolt8pkjfbys",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4267",
         "material": "Gips",
         "technique": [
@@ -2344,10 +2402,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "4yHFplNC8TE3TyrZI3UoA",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4271",
         "material": "Gips",
         "technique": [
@@ -2384,10 +2443,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "K1FriNUgJlNG5K_1ZSCHh",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4272",
         "material": "Gips",
         "technique": [
@@ -2425,10 +2485,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "o9q0jkXARp22pY5ArNZIk",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4273",
         "material": "Gips",
         "technique": [
@@ -2466,10 +2527,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "xAK7mbYsLCW5DxY3788hD",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4274",
         "material": "Gips",
         "technique": [
@@ -2507,10 +2569,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "XREQbPH5JFGb515GE-pnc",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4275",
         "material": "Gips",
         "technique": [
@@ -2548,10 +2611,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "BTKvI0D7aA8F3t3HO-SvX",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4276",
         "material": "Gips",
         "technique": [
@@ -2589,10 +2653,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "PTDsKX-_mQLUupKqmOY0O",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4277",
         "material": "Gips",
         "technique": [
@@ -2630,10 +2695,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "bi0QBK47gmh48iLltyeO5",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4278",
         "material": "Gips",
         "technique": [
@@ -2671,10 +2737,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "xlX7T05Afam7F9D4hMMBB",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4279",
         "material": "Gips",
         "technique": [
@@ -2712,10 +2779,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "adkexAoo1VvX6-xIII9KJ",
       "type": "Feature",
       "properties": {
         "title": "Kachelmodel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4280",
         "material": "Gips",
         "technique": [
@@ -2753,10 +2821,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "UCUFOUhAX8B-yFgBTAoFo",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4281",
         "material": "Gips",
         "technique": [
@@ -2794,10 +2863,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "sy1Orf3j38f6xoDQgyJ7j",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4282",
         "material": "Gips",
         "technique": [
@@ -2835,10 +2905,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "TDtq-9NE3nh4RhXXoM6Jc",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4283",
         "material": "Gips",
         "technique": [
@@ -2876,10 +2947,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "997LJF2I4V0_0Vik7vBGB",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4284",
         "material": "Gips",
         "technique": [
@@ -2917,10 +2989,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "SDgjrbtsFqZ3CilXdPLmw",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4285",
         "material": "Gips",
         "technique": [
@@ -2958,10 +3031,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "LZ5j909YV8tMHZlodo1cQ",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4286",
         "material": "Gips",
         "technique": [
@@ -2999,10 +3073,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "zdPFtKy8agHjxF_ZmVHtu",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4287",
         "material": "Gips",
         "technique": [
@@ -3040,10 +3115,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "W3_suBFmRz6CNxaHp3P9p",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4289",
         "material": "Gips",
         "technique": [
@@ -3081,10 +3157,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "rcDi8cOjWiwd6W1QP_Wc0",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4291",
         "material": "Gips",
         "technique": [
@@ -3122,10 +3199,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "Ewxw2HFdABfxI5-MYxy4S",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4292",
         "material": "Gips;Keramik/Ton",
         "technique": [
@@ -3163,10 +3241,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "uyfyuRphZ0YK-QBaM57XN",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4295",
         "material": "Gips",
         "technique": [
@@ -3204,10 +3283,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "VvTq0IEsOOitNvWAiV7-_",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4296",
         "material": "Gips",
         "technique": [
@@ -3245,10 +3325,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "iyAxisMZQNZjrZmTE8CLz",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4297",
         "material": "Gips",
         "technique": [
@@ -3286,10 +3367,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "66g2tP-1yUD-eybYEg_cZ",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4298",
         "material": "Gips",
         "technique": [
@@ -3327,10 +3409,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "xdFC-KUZ2bhWYZssHokWb",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4299",
         "material": "Gips",
         "technique": [
@@ -3368,10 +3451,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "xkURkW_2OslgChAw9d6sD",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4300",
         "material": "Gips",
         "technique": [
@@ -3409,10 +3493,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "zXOTrG1h94S3zoVmpVoLp",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4301",
         "material": "Gips",
         "technique": [
@@ -3450,10 +3535,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "Xs_TxgFmP0NveSTIPxkR5",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4302",
         "material": "Gips",
         "technique": [
@@ -3491,10 +3577,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "gBr0snU9dkgtTtp1jfoiI",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4303",
         "material": "Gips",
         "technique": [
@@ -3532,10 +3619,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "IuPeczivgurPz-A0UGlc0",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4304a-b",
         "material": "Gips",
         "technique": [
@@ -3573,10 +3661,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "204Is_xlqkNm2kMfKxNH_",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4305a-b",
         "material": "Gips",
         "technique": [
@@ -3614,10 +3703,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "oSbtVYSD4DaCYDP1pq00F",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4317",
         "material": "Gips",
         "technique": [
@@ -3654,10 +3744,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "fppN5yIYQxYCPMufFrpgZ",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4353",
         "material": "Gips",
         "technique": [
@@ -3694,10 +3785,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "_t-Zv1vyBcHVBTK9UfGpk",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4360",
         "material": "Gips",
         "technique": [
@@ -3734,10 +3826,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "3Ni1cFnkLaMdRnmACiOC5",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4361",
         "material": "Gips",
         "technique": [
@@ -3774,10 +3867,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "Y5l22zH49KH-jy2uITsjg",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4362",
         "material": "Gips",
         "technique": [
@@ -3814,10 +3908,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "Ywd769ccPgIpReQeiNAm4",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4363",
         "material": "Gips",
         "technique": [
@@ -3854,10 +3949,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "jRlRLq0PVI_19SFDUpC6n",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4364",
         "material": "Gips",
         "technique": [
@@ -3894,10 +3990,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "c2uDFRTqcQJbgICvvNTD7",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4365",
         "material": "Gips",
         "technique": [
@@ -3934,10 +4031,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "AjbYPiowXRPUBmUKW--8C",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4366",
         "material": "Gips",
         "technique": [
@@ -3974,10 +4072,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "v_2ybfWnLuCOWxLpQZDHP",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4367",
         "material": "Gips",
         "technique": [
@@ -4014,10 +4113,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "CfYNgOoacv6DynnGBUTdM",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4368",
         "material": "Gips",
         "technique": [
@@ -4054,10 +4154,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "Pwv2wXIXoqq1IylE2gKPV",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4369",
         "material": "Gips",
         "technique": [
@@ -4094,10 +4195,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "VjFbBdkrWbE2KLtGZisc0",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4370",
         "material": "Gips",
         "technique": [
@@ -4134,10 +4236,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "S9pdHNc8dBjpwx2jNjVlB",
       "type": "Feature",
       "properties": {
         "title": "Kachelmodel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4371",
         "material": "Keramik/Ton",
         "technique": [
@@ -4175,10 +4278,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "Z85Q8v04zt5aiZpIyG_dl",
       "type": "Feature",
       "properties": {
         "title": "Kachelmodel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4372",
         "material": "Keramik/Ton",
         "technique": [
@@ -4216,10 +4320,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "-N7LTYv_Q-Tlur0y_HKRR",
       "type": "Feature",
       "properties": {
         "title": "Kachelmodel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4373",
         "material": "Keramik/Ton",
         "technique": [
@@ -4257,10 +4362,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "bb-IPc4YtzKYGENSVpgs5",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4377",
         "material": "Gips",
         "technique": [
@@ -4297,10 +4403,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "lVw3DO3Gd3jQdMNBgmFaG",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4385a-b",
         "material": "Gips",
         "technique": [
@@ -4337,10 +4444,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "1Zmw42pFJRbDzFIhKU9Fv",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4386",
         "material": "Gips",
         "technique": [
@@ -4377,10 +4485,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "sr8Gd4DPX0IK21eyaIEm_",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4389",
         "material": "Gips",
         "technique": [
@@ -4417,10 +4526,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "e4THQKKhMcc-iCcEOj1aR",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4392",
         "material": "Gips",
         "technique": [
@@ -4457,10 +4567,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "w6W3Z3Y7y6O98XaRmHDU-",
       "type": "Feature",
       "properties": {
         "title": "Kachel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4393",
         "material": "Keramik/Ton",
         "technique": [
@@ -4499,10 +4610,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "DR9UDksjCGtxdUzrBGwKp",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4405a-b",
         "material": "Gips",
         "technique": [
@@ -4539,10 +4651,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "r03Zg1pzCNFE9C1zubOgX",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4407a-b",
         "material": "Gips",
         "technique": [
@@ -4579,10 +4692,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "BEe3cEVdBUKff4rzCwLWA",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4408",
         "material": "Gips",
         "technique": [
@@ -4619,10 +4733,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "f3yqFmLDat_5gmlp95lIS",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4409",
         "material": "Gips",
         "technique": [
@@ -4659,10 +4774,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "FdgGBqG2kAqQgGlDQ_Y9X",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4410",
         "material": "Gips",
         "technique": [
@@ -4699,10 +4815,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "HDpClVE1Z4opOoQor1Pq2",
       "type": "Feature",
       "properties": {
         "title": "Kachel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4427",
         "material": "Keramik/Ton",
         "technique": [
@@ -4741,10 +4858,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "5KPEDWa0bHhUT7RZC05WE",
       "type": "Feature",
       "properties": {
         "title": "Kachel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4670",
         "material": "Keramik/Ton",
         "technique": [
@@ -4783,10 +4901,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "gm1vSax4Lgbh8Q7WxB3_i",
       "type": "Feature",
       "properties": {
         "title": "Kachel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4672",
         "material": "Keramik",
         "technique": [
@@ -4825,10 +4944,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "SkYBcgGCdj4QJnRtgUQTV",
       "type": "Feature",
       "properties": {
         "title": "Negativform",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM4749",
         "material": "Gips",
         "technique": [
@@ -4866,10 +4986,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "TK6FVnb5zZLDPwgCyIV2L",
       "type": "Feature",
       "properties": {
         "title": "Kachel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM5495",
         "material": "Keramik/Ton",
         "technique": [
@@ -4908,10 +5029,11 @@
       }
     },
     {
-      "@id": "https://datenbank.noemuseen.at/0272",
+      "@id": "7cCUIqmSjkPzb5Dhg53mz",
       "type": "Feature",
       "properties": {
         "title": "Kachel",
+        "source": "https://datenbank.noemuseen.at/0272",
         "invNr": "KFJM5515",
         "material": "Keramik",
         "technique": [
