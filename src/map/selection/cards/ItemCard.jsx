@@ -47,7 +47,7 @@ const ItemCard = props => {
   const descriptions = getDescriptions(node);
 
   const sourceUrl = 
-    node.properties?.url || node?.identifier || node.id;
+    node.properties?.source || node?.identifier || node.id;
 
   const when = parseWhen(node.properties?.when || node.when);
 
@@ -150,7 +150,7 @@ const ItemCard = props => {
                   href={sourceUrl} 
                   target="_blank"
                   onClick={tagNav}>
-                  View page on {node.dataset}<RiExternalLinkLine />
+                  Quelle: {node.properties.institution}<RiExternalLinkLine />
                 </a>
               </h2>
               
@@ -158,7 +158,7 @@ const ItemCard = props => {
                 href={sourceUrl}
                 className="p6o-new-tab-hint"
                 onClick={tagNav}
-                target="_blank">Link opens a new tab</a>
+                target="_blank">Link öffnet in neuem Tab</a>
             </div>
 
             <p className="p6o-node-types">
