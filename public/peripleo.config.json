@@ -1,15 +1,14 @@
 {
   "initial_bounds": [-28.9, -4.8, 88.2, 59.8],
   "data": [
-    { "name": "Fitzwilliam Museum", "format": "LINKED_PLACES", "src": "data/crosswalked.json" }
+    { "name": "DOORS Beispieldaten", "format": "LINKED_PLACES", "src": "demo-dataset.lp.json" }
   ],
   "map_style": "https://api.maptiler.com/maps/outdoor/style.json?key=n685MFoUAXpwGYc35v3J",
   "facets": [
-    { "name": "Category", "path": ["types", "label"] },
-    { "name": "Period", "path": ["properties", "periods"] },
-    { "name": "Technique", "path": ["properties", "techniques"] },
-    { "name": "Method of Acquisition", "path": ["properties", "method"] },
-    { "name": "Acquired from", "path": ["properties", "acquiredFrom"] }
+    { "name": "Material", "path": ["properties", "material"] },
+    { "name": "Technik", "path": ["properties", "technique"] },
+    { "name": "Ort", "path": ["properties", "relation"] },
+    { "name": "Sammlung", "path": ["properties", "collection"] }
   ],
   "link_icons": [
     
