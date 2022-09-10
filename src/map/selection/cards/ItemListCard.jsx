@@ -264,9 +264,9 @@ const ItemListCard = props => {
           )}
         </ul>
       }
-      <footer aria-live={true}>
+      {/* <footer aria-live={true}>
         <AiOutlineInfoCircle />Links open a new tab
-      </footer>
+      </footer> */}
     </div>
   )
 

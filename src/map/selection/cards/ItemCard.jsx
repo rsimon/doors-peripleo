@@ -186,6 +186,7 @@ const ItemCard = props => {
           </div>
         </main>
 
+        {/*
         <footer aria-live={true}>
           {connected.length > 0 ?
             <div
@@ -201,6 +202,7 @@ const ItemCard = props => {
             </div>
           }
         </footer>
+        */}
       </div>
 
       {showLightbox && 
