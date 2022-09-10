@@ -55,6 +55,7 @@ const Zoom = props => {
         <AiOutlineMinus />
       </button>
 
+      {/*
       <div className="p6o-map-modes">
         <button
           className="p6o-controls-btn p6o-hud-button"
@@ -70,6 +71,7 @@ const Zoom = props => {
           }
         </AnimatePresence>
       </div>
+      */}
     </div>
   )
 
