@@ -5,15 +5,29 @@ const gazetteerCsv = fs.readFileSync('./Dummy-Orte.csv', { encoding: 'utf8' });
 const gazetteer = Papa.parse(gazetteerCsv, { header: true, delimiter: ';' });
 
 const getPlace = placeName => {
-  if (!placeName?.trim())
-    return;
-
   const row = gazetteer.data.find(row => row.Ortsname === placeName.trim());
   if (row) {
     return {
       type: 'Point',
       coordinates: [ parseFloat(row.Lon), parseFloat(row.Lat) ]
     };
+  }
+}
+
+const buildFeature = (record, place, relation) => {
+  if (!place?.trim())
+    return;
+
+  return {
+    ...record,
+    properties: {
+      ...record.properties,
+      place: place.trim(),
+      relation
+    },
+    geometry: {
+      ...getPlace(place.trim())
+    }
   }
 }
 
@@ -24,7 +38,7 @@ const getPlace = placeName => {
 const recordsCsv = fs.readFileSync('./Dummy-Daten.csv', { encoding: 'utf8' });
 const records = Papa.parse(recordsCsv, { header: true });
  
-const data = records.data.reduce((records, row) => {
+const features = records.data.reduce((all, row) => {
   const { 
     Standort,
     Herstellungsort,
@@ -74,13 +88,18 @@ const data = records.data.reduce((records, row) => {
     }]
   };
 
-  const placeOfDeposit = getPlace(Standort);
+  const features = [
+    buildFeature(peripleoRecord, Standort, 'Standort'),
+    buildFeature(peripleoRecord, Herstellungsort, 'Herstellungsort'),
+    buildFeature(peripleoRecord, Fundort, 'Fundort/Herkunft')
+  ].filter(rec => rec); // Remove null;
   
-  const placeOfProduction = getPlace(Herstellungsort);
-
-  const placeOfOrigin = getPlace(Fundort);
-
-  console.log(placeOfDeposit, placeOfOrigin, placeOfProduction);
-
-  return records;
+  return [...all, ...features];
 }, []);
+
+const fc = {
+  type: 'FeatureCollection',
+  features
+};
+
+fs.writeFileSync('demo-dataset.lp.json', JSON.stringify(fc, null, 2), 'utf8');
