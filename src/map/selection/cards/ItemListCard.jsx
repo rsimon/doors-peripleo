@@ -73,7 +73,7 @@ const InternalLink = props => {
 
   let source;
   try {
-    const url = new URL(sanitizeURL(node.id));
+    const url = new URL(sanitizeURL(node.properties.source));
     source = url.host;
   } catch {
     source = node.dataset;
@@ -156,6 +156,7 @@ const LinkGroup = props => {
   const onToggle = () => setOpen(!isOpen);
 
   return (
+    /*
     <li className={isOpen ? "p6o-link-group open" : "p6o-link-group closed"}>
       <h2 onClick={onToggle}>
         {props.label !== '__ungrouped' && <div className="p6o-link-icon">{icon}</div> }
@@ -170,8 +171,9 @@ const LinkGroup = props => {
           {isOpen ? <HiMinus /> : <HiPlus />}
         </button>
       </h2>
+      */
 
-      {isOpen &&
+      // {isOpen &&
         <ul>
           {props.nodes.map(selection => selection.node.properties ?
             <li 
@@ -189,8 +191,8 @@ const LinkGroup = props => {
             </li>
           )}
         </ul>
-      }
-    </li>
+      //}
+    // </li>
   )
 
 }

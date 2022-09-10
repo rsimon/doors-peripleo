@@ -21,6 +21,7 @@ const buildFeature = (record, place, relation) => {
 
   return {
     ...record,
+    '@id': nanoid(),
     properties: {
       ...record.properties,
       place: place.trim(),
@@ -66,7 +67,6 @@ const features = records.data.reduce((all, row) => {
   const Eigentuemer = row['Eigentümer'];
 
   const peripleoRecord = {
-    '@id': nanoid(),
     type: 'Feature',
     properties: {
       title: Objektbezeichnung,
