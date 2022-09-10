@@ -20,12 +20,11 @@ const Welcome = props => {
   return ReactDOM.createPortal(
     <div className="p6o-welcome-wrapper">
       <div className="p6o-welcome">
-        <h1>Welcome!</h1>
+        <h1>Willkommen!</h1>
 
         <p>
-          Welcome to Peripleo, the map prototype for 
-          the <strong>Locating a National Collection</strong> project. 
-          Take the tour to learn about the main user interface elements.
+          Wilkommen beim Prototypen für den DOORS Projektantrag <strong>"Digitale Wärme"</strong>. 
+          Diese kurze Tour erklärt die Funktion der Kartenvisualisierung.
         </p>
         
         <div className="p6o-welcome-buttons">
@@ -37,19 +36,19 @@ const Welcome = props => {
 
             { checked ? <IoMdCheckboxOutline /> : <IoMdSquareOutline /> }
 
-            <span>Don't ask again</span>
+            <span>Nicht mehr fragen</span>
           </label>
           
           <button 
             className="p6o-no-thanks"
             onClick={props.onNoThanks}>
-            No thanks
+            Nein danke
           </button>
 
           <button 
             className="p6o-take-tour"
             onClick={props.onTakeTour}>
-            Yes, take the tour
+            Tour starten
           </button>
         </div>
       </div>

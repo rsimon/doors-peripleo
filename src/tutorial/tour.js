@@ -2,39 +2,33 @@ import React from 'react';
 
 const tour = [{
   target: '.p6o-search-button',
-  title: 'Your journey starts here',
-  content: 'Click the spyglass button to enter a text search of the loaded map data.',
+  title: 'Deine Reise beginnt hier',
+  content: 'Klicke auf das Lupen-Icon um eine Textsuche im Datensatz durchzuführen.',
   disableBeacon: true
 }, {
   target: '.p6o-filters-button',
-  content: 'Or click the filter button below to open the filter panel.',
+  content: 'Oder klicke den Filter-Button darunter, um die Filter-Palette zu öffnen.',
   disableBeacon: true
 },{
   target: '.p6o-facets',
-  title: 'The Filter Panel',
-  content: 'With the filter panel open, the map shows different types of data in different colors.',
+  title: 'Die Filter-Palette',
+  content: 'Wenn die Filter-Palette offen ist, werden die Daten auf der Karte in verschiedenen Farben dargestellt, je nach gewählter Kategorie.',
   disableBeacon: true
 },{
   target: '.p6o-facets-carousel',
-  content: 'You can cycle through the available filter categories by clicking the arrows.',
+  content: 'Mit den Pfeil-Icons kannst Du zwischen den verschiedenen Filterkategorien wechseln.',
   disableBeacon: true
 },{
   target: '.p6o-facets ul',
-  content: 'You can filter the data on the map by clicking the labels.',
-  disableBeacon: true
-},{
-  target: '.p6o-map-modes',
-  title: 'Map Modes',
-  content: 'You can show data in different ways by changing the map mode here.',
+  content: 'Klicke auf die Labels um einen Filter zu setzen, und andere Filterwerte auszublenden.',
   disableBeacon: true
 },{
   target: 'body',
   placement: 'center',
-  title: 'That\'s it!',
+  title: 'Viel Spass!',
   content: 
     <span>
-      Thanks for taking the time. Have fun exploring our Peripleo mapping prototype.
-      If you want to know more about the software, <a href="https://github.com/britishlibrary/peripleo-lanc" target="_blank">click here</a>.
+      Danke dass Du Dir die Zeit genommen hast. Viel Spass beim Erkunden unseres Prototypen für das DOORS-Projekt "Digitale Wärme".
     </span>
 }];
 
