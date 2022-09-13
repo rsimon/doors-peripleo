@@ -37,7 +37,7 @@ const buildFeature = (record, place, relation) => {
  * Note: for the dummy, each data point == one record at one particular place.
  * (I.e. one record linked to three places is represented as three data points)
  */
-const recordsCsv = fs.readFileSync('./Dummy-Daten.csv', { encoding: 'utf8' });
+const recordsCsv = fs.readFileSync('./Dummy-Daten-v2.csv', { encoding: 'utf8' });
 const records = Papa.parse(recordsCsv, { header: true });
  
 const features = records.data.reduce((all, row) => {
@@ -63,7 +63,7 @@ const features = records.data.reduce((all, row) => {
   const Foto = row['Foto Link - Medienserver'];
   const Beschreibung = row['Beschreibung (Museumsobjekt)'];
   const Geschichte = row['Objektgeschichte (Museumsobjekt)'];
-  const Link = row['Link Museumsdatenbank'];
+  const Link = row['Link DIPkatalog']; // row['Link Museumsdatenbank'];
   const Eigentuemer = row['Eigentümer'];
 
   const peripleoRecord = {
