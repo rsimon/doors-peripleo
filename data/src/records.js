@@ -90,11 +90,11 @@ const features = records.data.reduce((all, row) => {
     }]
   };
 
-  const features = [
+  const features = Link?.trim() ? [
     buildFeature(peripleoRecord, Standort, 'Standort'),
     buildFeature(peripleoRecord, Herstellungsort, 'Herstellungsort'),
     buildFeature(peripleoRecord, Fundort, 'Fundort/Herkunft')
-  ].filter(rec => rec); // Remove null;
+  ].filter(rec => rec) : [];
   
   return [...all, ...features];
 }, []);

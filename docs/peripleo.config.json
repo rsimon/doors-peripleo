@@ -5,9 +5,9 @@
   ],
   "map_style": "https://api.maptiler.com/maps/pastel/style.json?key=RFavxpVJ82EHyrN2kxsF",
   "facets": [
+    { "name": "Ort", "path": ["properties", "relation"] },
     { "name": "Material", "path": ["properties", "material"] },
     { "name": "Technik", "path": ["properties", "technique"] },
-    { "name": "Ort", "path": ["properties", "relation"] },
     { "name": "Sammlung", "path": ["properties", "collection"] }
   ],
   "link_icons": [
