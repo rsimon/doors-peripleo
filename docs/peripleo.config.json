@@ -1,6 +1,6 @@
 {
   "initial_bounds": [15.4, 47.4, 16.3, 49.2],
-  "welcome_message: "welcome.md",
+  "welcome_message": "welcome.md",
   "data": [
     { "name": "DOORS Beispieldaten", "format": "LINKED_PLACES", "src": "demo-dataset.lp.json" }
   ],
